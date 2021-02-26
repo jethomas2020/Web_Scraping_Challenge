@@ -100,6 +100,7 @@ that was scraped from the URLs above.
     
     -----------
  **   **Included in repository: ****
+      
     -  The Jupyter Notebook containing the scraping code used.
     -  Screenshots of final application included in Images Folder. 
     -  Index.html file
