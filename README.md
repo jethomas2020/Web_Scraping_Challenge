@@ -8,7 +8,7 @@
 In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines what you need to do.
 
 ------------
-# Step 1 - Scraping
+# Step 1 - Scraping Data
 
 Completed the initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
 
