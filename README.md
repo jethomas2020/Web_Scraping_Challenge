@@ -49,15 +49,17 @@ featured_image_url = 'https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA24425.
 
     Used Pandas to convert the data to a HTML table string.
 
-Mars Hemispheres
+**Mars Hemispheres**
 
-    Visited the USGS Astrogeology site  to obtain high resolution images for each of Mar's hemispheres.
+    Visited the USGS Astrogeology site ['https://astrogeology.usgs.gov'] to obtain high resolution images for each of Mar's Hemispheres.
 
-    You will need to click each of the links to the hemispheres in order to find the image url to the full resolution image.
+   Clicked on each of the links to the Hemispheres in order to find the image url to the full resolution image.
+    [hemispheres_url = 'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars']
 
-    Save both the image url string for the full resolution hemisphere image, and the Hemisphere title containing the hemisphere name. Use a Python dictionary to store the data using the keys img_url and title.
+    Saved both the image url string for the full resolution Hemisphere image, and the Hemisphere title containing the Hemisphere name. 
+    Used a Python dictionary to store the data using the keys img_url and title.
 
-    Append the dictionary with the image url string and the hemisphere title to a list. This list will contain one dictionary for each hemisphere.
+    Appended the dictionary with the image url string and the Hemisphere title to a list. This list contains one dictionary for each Hemisphere.
 
 # Example:
 hemisphere_image_urls = [
