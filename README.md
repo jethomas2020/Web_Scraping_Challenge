@@ -32,7 +32,8 @@ news_p = "The giant canopy that helped land Perseverance on Mars was tested here
     Visited the url for the NASA JPL (Jet Propulsion Laboratory)- CIT Featured Space Image. ['https://www.jpl.nasa.gov']
 
     Used splinter to navigate the site and find the image url for the current Featured Mars Image and 
-        assign the url string to a variable called featured_image_url.['https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars']
+        assign the url string to a variable called featured_image_url.
+        ['https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars']
             - used image url for full size .jpg image
             - completed url string for this image.
 
