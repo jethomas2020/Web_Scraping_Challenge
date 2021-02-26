@@ -90,12 +90,12 @@ that was scraped from the URLs above.
         scrape function.
         Stored the return value in Mongo as a Python dictionary.
 
-    Created a root route / that will query your Mongo database and pass the mars data into an HTML template 
-        to display the data.
+    Created a root route / that will query your Mongo database and pass the mars data into an
+        HTML template to display the data.
 
-    Create a template HTML file called index.html that will take the mars data dictionary and display all 
-        of the data in the appropriate HTML elements. Use the following as a guide for what the final product 
-        should look like, but feel free to create your own design.
+    Create a template HTML file called index.html that will take the mars data dictionary 
+        and display all of the data in the appropriate HTML elements. Use the following as a 
+        guide for what the final product should look like, but feel free to create your own design.
     
     
     -----------
@@ -110,7 +110,7 @@ that was scraped from the URLs above.
 **NOTE:**
     Used Splinter to navigate the sites when needed and BeautifulSoup to help find and parse out the necessary data.
 
-    Used Pymongo for CRUD applications for the database. For this project, we simply overwrote the existing document 
-    each time the /scrape url is visited and new data is obtained.
+    Used Pymongo for CRUD applications for the database. For this project, we simply overwrote the 
+    existing document each time the /scrape url is visited and new data is obtained.
 
     Used Bootstrap to structure the HTML template.
