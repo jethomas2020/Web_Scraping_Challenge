@@ -97,16 +97,17 @@ that was scraped from the URLs above.
         of the data in the appropriate HTML elements. Use the following as a guide for what the final product 
         should look like, but feel free to create your own design.
     
+    
     -----------
-    Included in repo: 
+ **   **Included in repository: ****
     -  The Jupyter Notebook containing the scraping code used.
     -  Screenshots of final application included in Images Folder. 
     -  Index.html file
     -  Scraping Mars Data file
-    -  Flask file
+    -  Flask applciation file
    
  -------------------------------------  
-NOTE:
+**NOTE:**
     Used Splinter to navigate the sites when needed and BeautifulSoup to help find and parse out the necessary data.
 
     Used Pymongo for CRUD applications for the database. For this project, we simply overwrote the existing document 
