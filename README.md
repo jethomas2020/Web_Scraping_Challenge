@@ -22,27 +22,27 @@ Completed the initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, an
     - Scraped the NASA Mars News Site and collected the latest News Title and Paragraph Text. 
     - Assigned the text to variables that you can reference later.
 
-# Example:
+**Example:**
 news_title = "Testing Proves Its Worth With Successful Mars Parachute Deployment"
 
 news_p = "The giant canopy that helped land Perseverance on Mars was tested here on Earth at NASA’s Wallops Flight Facility in Virginia."
 
 **JPL Mars Space Images - Featured Image**
 
-    Visit the url for JPL Featured Space Image here.
+    Visited the url for the NASA JPL (Jet Propulsion Laboratory)- CIT Featured Space Image. ['https://www.jpl.nasa.gov']
 
-    Use splinter to navigate the site and find the image url for the current Featured Mars Image and assign the url string to a variable called featured_image_url.
+    Used splinter to navigate the site and find the image url for the current Featured Mars Image and 
+        assign the url string to a variable called featured_image_url.['https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars']
+            - used image url for full size .jpg image
+            - completed url string for this image.
 
-    Make sure to find the image url to the full size .jpg image.
+**Example:**
+featured_image_url = 'https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA24425.2e16d0ba.fill-400x400-c50.jpg'
 
-    Make sure to save a complete url string for this image.
 
-# Example:
-featured_image_url = 'https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA16225_hires.jpg'
+**Mars Planet Facts**
 
-Mars Facts
-
-    Visit the Mars Facts webpage here and use Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
+    Visited the Mars Facts webpage and use Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
 
     Use Pandas to convert the data to a HTML table string.
 
