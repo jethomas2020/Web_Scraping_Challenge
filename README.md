@@ -43,13 +43,14 @@ featured_image_url = 'https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA24425.
 
 **Mars Planet Facts**
 
-    Visited the Mars Facts webpage and use Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
+    Visited the Mars Facts webpage ['https://space-facts.com/mars/'] and used Pandas to scrape the table 
+        containing facts about the planet including Diameter, Mass, etc.
 
-    Use Pandas to convert the data to a HTML table string.
+    Used Pandas to convert the data to a HTML table string.
 
 Mars Hemispheres
 
-    Visit the USGS Astrogeology site here to obtain high resolution images for each of Mar's hemispheres.
+    Visited the USGS Astrogeology site  to obtain high resolution images for each of Mar's hemispheres.
 
     You will need to click each of the links to the hemispheres in order to find the image url to the full resolution image.
 
