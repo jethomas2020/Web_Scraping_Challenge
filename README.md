@@ -97,30 +97,19 @@ that was scraped from the URLs above.
         of the data in the appropriate HTML elements. Use the following as a guide for what the final product 
         should look like, but feel free to create your own design.
     
-    
-    ADD IMAGES -\\
-    
-    Step 3 - Submission
-
-
-
-
-
-To submit your work to BootCampSpot, create a new GitHub repository and upload the following:
-
-    The Jupyter Notebook containing the scraping code used.
-
-    Screenshots of your final application.
-
-    Submit the link to your new repository to BootCampSpot.
-
-    Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
+    -----------
+    Included in repo: 
+    -  The Jupyter Notebook containing the scraping code used.
+    -  Screenshots of final application included in Images Folder. 
+    -  Index.html file
+    -  Scraping Mars Data file
+    -  Flask file
+   
+ -------------------------------------  
 NOTE:
-
     Used Splinter to navigate the sites when needed and BeautifulSoup to help find and parse out the necessary data.
 
-    Used Pymongo for CRUD applications for the database. For this homework, we simply overwrote the existing document 
+    Used Pymongo for CRUD applications for the database. For this project, we simply overwrote the existing document 
     each time the /scrape url is visited and new data is obtained.
 
-    Used Bootstrap to structure your HTML template.
+    Used Bootstrap to structure the HTML template.
