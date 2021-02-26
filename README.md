@@ -2,6 +2,8 @@
 
 # Mission to Mars
 
+![Alt text](/relative/path/to/Images/mission_to_mars.jpg?raw=true "Mission to Mars")
+
 ----------------------
 # Background
 
