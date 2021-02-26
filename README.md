@@ -1,5 +1,7 @@
 # Web_Scraping_Challenge
 
+------------------
+
 # Mission to Mars
 
 ![Alt text](mission_to_mars.png "Mission to Mars")
