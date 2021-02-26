@@ -116,7 +116,7 @@ NOTE:
 
     Used Splinter to navigate the sites when needed and BeautifulSoup to help find and parse out the necessary data.
 
-    Used Pymongo for CRUD applications for the database. For this homework, we simply overwrote the existing document each time the /scrape url 
-    is visited and new data is obtained.
+    Used Pymongo for CRUD applications for the database. For this homework, we simply overwrote the existing document 
+    each time the /scrape url is visited and new data is obtained.
 
     Used Bootstrap to structure your HTML template.
